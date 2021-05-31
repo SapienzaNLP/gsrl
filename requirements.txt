@@ -1,0 +1,10 @@
+overrides
+torch==1.5.0
+cached_property
+networkx
+pytorch-ignite
+regex
+transformers==2.11.0
+wandb
+nltk
+spacy

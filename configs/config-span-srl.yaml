@@ -1,0 +1,26 @@
+name: span-based-srl
+model: facebook/bart-large
+batch_size: 800
+beam_size: 1
+dropout: 0.25
+attention_dropout: 0.0
+accum_steps: 10
+warmup_steps: 1
+training_steps: 250000
+weight_decay: 0.004
+grad_norm: 2.5
+scheduler: constant
+learning_rate: 0.00005
+max_epochs: 20
+save_checkpoints: True
+warm_start: True #set to False for deactivating BART pretraining
+best_loss: False  #set to True to log loss rather than F1 score
+remove_longer_than: 1024
+split: True
+train: data/conll-2012/en/training/*
+dev: data/conll-2012/en/dev/*.txt
+test: data/conll-2012/en/test/*.txt
+log_wandb: False #set to True for wandb logging
+#Set wandb information
+wandb-project: gsrl
+team: gsrl_team
