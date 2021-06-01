@@ -4,8 +4,8 @@ An End-to-End Model for Dependency- and Span-based Semantic Role Labeling
        Rexhina Blloshmi, Simone Conia, Rocco Tripodi and Roberto Navigli
                     Sapienza University of Rome
                         Sapienza NLP Group
-               https://github.com/SapienzaNLP/xl-amr
-             {blloshmi,tripodi,navigli}@di.uniroma1.it
+               https://github.com/SapienzaNLP/gsrl
+{rexhina.blloshmi,simone.conia, rocco.tripodi,roberto.navigli}@uniroma1.it
 
 =======================================================================
 
