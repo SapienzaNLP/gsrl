@@ -2,7 +2,7 @@
  
 # <u>G</u>enerating <u>S</u>enses and <u>R</u>o<u>L</u>es: <br> An End-to-End Model for Dependency- and Span-based Semantic Role Labeling
 
-[![Paper](https://img.shields.io/badge/paper-IJCAI--Proceedings-blue)](https://www.diag.uniroma1.it/navigli/pubs/IJCAI_2021_Blloshmietal.pdf)
+[![Paper](https://img.shields.io/badge/paper-IJCAI--Proceedings-blue)](https://www.ijcai.org/proceedings/2021/0521.pdf)
 [![Conference](https://img.shields.io/badge/Conference-IJCAI--2021-red)](https://ijcai-21.org/)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
