@@ -66,7 +66,7 @@ If you find our paper, code or framework useful, please reference this work in y
 ## Evaluation Framework
 * Please contact us by email.
 
-# Setup
+## Setup
 ### Install 
 
 Create a conda environment with **Python 3.8** and **PyTorch 1.5.0** and install the dependencies [requirements.txt](requirements.txt).
