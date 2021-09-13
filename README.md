@@ -109,7 +109,7 @@ E.g., the folder structure for CoNLL-2009 should look as below:
 - Evaluation scripts are in `scripts/` and their output is saves in `out/`.  
 
 - Vocabulary additions are included in `data/vocab/`. To allow reproducability do not change the files.
-#### Span-based Semantic Role Labeling
+### Span-based Semantic Role Labeling
 
 1. To train a GSRL model with _nested_ linearization:
 ```shell script
@@ -144,7 +144,7 @@ python -m src.bin.predict_srl
        --eval-name flattened-span-srl-result
 ```
 
-#### Dependency-based Semantic Role Labeling
+### Dependency-based Semantic Role Labeling
 2. To train a GSRL model with _nested_ linearization:
 ```shell script
 python -m src.bin.train 
