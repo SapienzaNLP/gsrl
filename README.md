@@ -66,7 +66,8 @@ If you find our paper, code or framework useful, please reference this work in y
 ## Evaluation Framework
 * Please contact us by email.
 
-## 1. Install 
+# Setup
+### Install 
 
 Create a conda environment with **Python 3.8** and **PyTorch 1.5.0** and install the dependencies [requirements.txt](requirements.txt).
 
@@ -81,7 +82,7 @@ To enable wandb logging**:
     wandb login
 **Also set _log_wandb_ to **True** (currenly **False**) in `configs` files and fill in _wandb-project_  and _team_ information accordingly.
 
-## 2. Add the CoNLL-2009 and CoNLL-2012 datasets inside `data/` directory. 
+### Add the CoNLL-2009 and CoNLL-2012 datasets inside `data/` directory. 
 
 Modify the data paths in the configuration files in `configs/` or follow our file structure. 
 
