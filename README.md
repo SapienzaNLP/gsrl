@@ -64,7 +64,7 @@ If you find our paper, code or framework useful, please reference this work in y
 
 
 ## Evaluation Framework
-* Coming soon
+* Please contact us by email.
 
 ## 1. Install 
 
