@@ -13,11 +13,17 @@ If you find our paper, code or framework useful, please reference this work in y
 
 ```
 @inproceedings{blloshmi-etal-2021-generating,
-    title = {Generating Senses and RoLes: An End-to-End Model for Dependency- and Span-based Semantic Role Labeling},
-    author = {Blloshmi, Rexhina and Conia, Simone and Tripodi, Rocco and Navigli, Roberto},
-    booktitle = {Proceedings of IJCAI},
-    year = {2021}
+  title     = {Generating Senses and RoLes: An End-to-End Model for Dependency- and Span-based Semantic Role Labeling},
+  author    = {Blloshmi, Rexhina and Conia, Simone and Tripodi, Rocco and Navigli, Roberto},
+  booktitle = {Proceedings of the Thirtieth International Joint Conference on
+               Artificial Intelligence, {IJCAI-21}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  pages     = {3786--3793},
+  year      = {2021},
+  doi       = {10.24963/ijcai.2021/521},
+  url       = {https://doi.org/10.24963/ijcai.2021/521},
 }
+
 ```
 
 
