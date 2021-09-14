@@ -182,7 +182,7 @@ python -m src.bin.predict_srl
 * To run without predicate identifiers in input, add `--identify-predicate` in both training and evaluation scripts above.
 
 ## License
-This project is released under the CC-BY-NC 4.0 license (see `LICENSE`). If you use `GSRL`, please put a link to this repo.
+This project is released under the CC-BY-NC-SA 4.0 license (see `LICENSE`). If you use `GSRL`, please put a link to this repo.
 
 ## Acknowledgements
 The authors gratefully acknowledge the support of the [ERC Consolidator Grant MOUSSE](http://mousse-project.org) No. 726487 and the [ELEXIS project](https://elex.is/) No. 731015 under the European Union’s Horizon 2020 research and innovation programme.
